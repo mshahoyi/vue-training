@@ -1,6 +1,6 @@
 # Stock Platform
 
-A training test project. Uses Vuejs, Vuex and Vue router
+A training test project. Uses Vuejs, Vuex and Vue router. Vue demo at https://muyabb.github.io/vue-training/
 
 ## Project setup
 
