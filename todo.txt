@@ -1,0 +1,20 @@
+state
+	stocks: an array of objects which contain
+		stock name
+		quantity the person has
+
+	funds: an integer representing the users pocket money
+
+	market
+		different company stocks
+		each company has a name and a price/stock
+		changes each day
+
+actions
+	buy: a certian quantity of shares from a certain company.
+	sell: a certain quantity of shares from a certain company.
+		
+
+save: saves state to the localstorage
+
+load: loads state from localstorage and replaces the current state with it.
